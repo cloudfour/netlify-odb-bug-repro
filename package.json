@@ -1,0 +1,15 @@
+{
+  "name": "odb-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify functions:serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^1.4.0",
+    "netlify-cli": "^13.0.0"
+  }
+}
